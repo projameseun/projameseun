@@ -8,12 +8,6 @@ My main language is **C++**, but I welcome discussions about programming in any 
 
 ### 🛠 Skills
 
-<!-- Icons in one line -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows Server"/>  
-
 <!-- Badges in one line -->
 ![C](https://img.shields.io/badge/C-Expert-blue?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-Proficient-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
