@@ -1,8 +1,11 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 ## Hi there 👋
 
 Hi, I'm **James Eun**.  
 I'm from Korea and mainly work on **game programming**.  
 My main language is **C++**, but I welcome discussions about programming in any language.
+
+
 
 ---
 
