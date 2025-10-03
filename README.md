@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3BF7A0&background=65EFFF00&width=435&lines=Hi+there)](https://git.io/typing-svg) 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3BF7A0&background=65EFFF00&width=435&lines=Hi+there)](https://git.io/typing-svg) 
 
 Hi, I'm **James Eun**.  
 I'm from Korea and mainly work on **game programming**.  
